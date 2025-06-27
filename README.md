@@ -1,2 +1,3 @@
 # Intl
-ECMAScript  internationalization API
+
+## ECMAScript internationalization API
